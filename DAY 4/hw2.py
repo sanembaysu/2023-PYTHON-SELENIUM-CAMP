@@ -3,7 +3,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
 from selenium.webdriver.common.by import By
 
-#from Mart18_Ders4 import Test_Sauce
 
 class Test_Sauce : 
 
